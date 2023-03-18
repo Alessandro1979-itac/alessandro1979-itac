@@ -33,21 +33,21 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front-End, atualmente focado em Angular. 
 ## Um pouco mais sobre mim ⚙️
 
 <div>
-• Sou graduado em Engenharia Eletrônica, mas sempre trabalhei com Tecnologia 🧑🏻‍🔬 <br>
-• Minha principal característica é a facilidade de aprendizado e a programação me trouxe o prazer de aprender novamente 📚  <br>
-• Meus hobbies incluem ouvir música, assistir a filmes, tocar guitarra, praticar esportes e até já participei do desenvolvimento de um filme! 🎸 🎥 ⚽ <br>
+• Sou graduado em Licenciatura em Informática, tenho uma especialização em Redes de Computadores, mas sempre trabalhei com Tecnologia.<br>
+• Minha principal característica é a facilidade de aprendizado e a programação me trouxe o prazer de aprender novamente.<br>
+• Meus hobbies incluem ouvir música, assistir a filmes, praticar esportes! ⚽<br>
 </div>
 <br><br>
 
 ## Stats, Streaks e Top Languages 💾
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gguilhermelopes&show_icons=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=Alessandro1979-itac&show_icons=true&theme=dracula)
 <br>
 
-![Streak](https://streak-stats.demolab.com/?user=gguilhermelopes&theme=dracula)
+![Streak](https://streak-stats.demolab.com/?user=Alessandro1979-itac&theme=dracula)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gguilhermelopes&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro1979-itac&layout=compact&theme=dracula)
 <br>
 <br><br>
 
