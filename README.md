@@ -41,7 +41,7 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front-End, atualmente focado em AngularJS
 
 ## Stats, Streaks e Top Languages 💾
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Alessandro1979-itac&show_icons=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=Alessandro1979-itac&show_icon=true&theme=dracula)
 <br>
 
 ![Streak](https://streak-stats.demolab.com/?user=Alessandro1979-itac&theme=dracula)
