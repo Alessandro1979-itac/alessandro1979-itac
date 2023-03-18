@@ -4,7 +4,7 @@
 
 # Sou um Desenvolvedor Front-End! 🖥️
 
-Seja bem-vindo(a)! Sou um Desenolvedor Front-End, atualmente focado em Angular. Sinta-se livre para visitar meus [repositórios](https://github.com/Alessandro1979-itac?tab=repositories)!
+Seja bem-vindo(a)! Sou um Desenolvedor Front-End, atualmente focado em AngularJS. Sinta-se livre para visitar meus [repositórios](https://github.com/Alessandro1979-itac?tab=repositories)!
 
 <p align="center">
   <a href="https://twitter.com/Muniz_Caranha">twitter</a> •
