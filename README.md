@@ -14,10 +14,10 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front-End, atualmente focado em Angular. 
 
 ## Skills 🖥️
 
-> **Angular • JavaScript • TypeScript • NodeJS • ExpressJS • CSS • SASS • Bootstrap • HTML5 • MySQL**
+> **AngularJS • JavaScript • TypeScript • NodeJS • ExpressJS • CSS • SASS • Bootstrap • HTML5 • MySQL**
 
 <div>
-<img height= "50rem" alt="Angular" src="https://user-images.githubusercontent.com/109265005/221436560-1c004605-0471-41fe-845a-c466e801673e.svg" /> 
+<img height= "50rem" alt="Angular" src="https://user-images.githubusercontent.com/60983658/226141608-773390b2-91a3-48bd-98bb-70d6e8e8cc81.svg" /> 
 <img height= "50rem" alt="JavaScript" src="https://user-images.githubusercontent.com/109265005/221436214-92d2f3aa-215c-4501-acab-23c3b6aff1cd.svg" />
 <img height= "50rem" alt="TypeScript" src="https://user-images.githubusercontent.com/109265005/221436885-0a90e837-8920-4141-af74-503e971e2e66.svg" />
 <img height= "50rem" alt="NodeJS" src="https://user-images.githubusercontent.com/109265005/221436733-fb3cae0c-8a0f-4c08-bd2a-6743ac439fe3.svg" />
