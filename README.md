@@ -4,7 +4,7 @@
 
 # Sou um Desenvolvedor Front-End! 🖥️
 
-Seja bem-vindo(a)! Sou um Desenolvedor Front-End, atualmente focado em AngularJS. Sinta-se livre para visitar meus [repositórios](https://github.com/Alessandro1979-itac?tab=repositories)!
+Seja bem-vindo(a)! Sou um Desenolvedor Front-End, atualmente focado em Angular. Sinta-se livre para visitar meus [repositórios](https://github.com/Alessandro1979-itac?tab=repositories)!
 
 <p align="center">
   <a href="https://twitter.com/Muniz_Caranha">twitter</a> •
@@ -14,7 +14,7 @@ Seja bem-vindo(a)! Sou um Desenolvedor Front-End, atualmente focado em AngularJS
 
 ## Skills 🖥️
 
-> **AngularJS • JavaScript • TypeScript • NodeJS • ExpressJS • CSS • SASS • Bootstrap • HTML5 • MySQL**
+> **Angular • JavaScript • TypeScript • NodeJS • ExpressJS • CSS • SASS • Bootstrap • HTML5 • MySQL**
 
 <div>
 <img height= "50rem" alt="Angular" src="https://user-images.githubusercontent.com/60983658/226141608-773390b2-91a3-48bd-98bb-70d6e8e8cc81.svg" /> 
